@@ -1,0 +1,29 @@
+{
+  "User": [
+    {
+      "name": "MAHA",
+      "team": "Lamp",
+      "stack": "MEAN"
+    },
+    {
+      "name": "MAHALAKSHMI ",
+      "team": "JAVA",
+      "stack": "MERN"
+    },
+    {
+      "name": "MAHALAKSHMI PANDIYAN",
+      "team": "DOTNET",
+      "stack": "PERL"
+    }
+  ],
+  "College": [
+    {
+      "College name": "SKCET",
+      "department": "EEE"
+      
+    }
+  ],
+  "Company": {
+    "name": "Aspire Systems"
+  }
+}
